@@ -1,0 +1,1 @@
+This project reads data from mqtt and displays it on a sh1106 display. A touch sensor wakes up the display.  
